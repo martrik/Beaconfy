@@ -1,0 +1,40 @@
+/* 
+  Strings.strings
+  Beacons
+
+  Created by Martí Serra Vivancos on 22/08/14.
+  Copyright (c) 2014 Tomorrow. All rights reserved.
+*/
+
+/* Title of settings */
+"SETTINGS_TITLE" = "Settings";
+
+/* Title of filter */
+"FILTER_TITLE" = "Filter";
+
+/* No internet nor bluetooth */
+"NO_SERVICES" = "You must have internet connection and the bluetooth enabled to use the app";
+
+/* No internet nor bluetooth */
+"NO_INTERNET" = "You must have internet connection to use the app";
+
+/* No internet nor bluetooth */
+"NO_BLUETOOTH" = "You must have the bluetooth enabled to use the app";
+
+/* Background notifications */
+"BACK_NOTS" = "Receive notifications";
+
+/* Done button */
+"DONE" = "Done";
+
+/* Update alert title */
+"UPDATE_TITLE" = "Update available";
+
+/* Update alert body */
+"UPDATE_BODY" = "Please update the app for a better experience.";
+
+/* OK */
+"OK" = "OK";
+
+/* Share flyer text */
+"SHARE_LINK" = "I detected an iBeacon thanks to Beaconfy!";
